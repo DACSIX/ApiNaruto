@@ -1,0 +1,13 @@
+.Home-Page{
+    margin-top: 10rem;
+    padding: 10px;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+.texto{
+    text-decoration: none;
+    color: black;
+}
